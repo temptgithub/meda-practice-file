@@ -1,0 +1,91 @@
+p {
+  font-family: monospace;
+  font-size: 72px;
+  font-style: italic;
+
+  color: red;
+
+
+  margin 20px auto;
+
+  width: 800px
+}
+
+#nav {
+  font-size: 24px;
+  font-family: "helvetica", sans-serif;
+  list-style-type: none;
+  background-color: #00e5ee;
+  text-align: center;
+  color: red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px  ;
+}
+
+
+#nav li {
+  display:inline-block;
+  width: 200px;
+  color: #ffffff;
+}
+
+
+
+#nav a {
+text-decoration: none;
+
+}
+
+#practice-links p a:link {
+  color: green;
+  font-size: : 24px;
+  border: 1px solid green
+}
+
+#practice-links a:visited {
+  color: yellow;
+  font-size: : 24px;
+  border: 1px dashed darkgreen;
+}
+
+
+
+#practice-links a:hover {
+  color: red;
+  font-size: 48px;
+  border: 2px dotted red;
+}
+
+#practice-links a:active {
+  color: pink;
+  text-shadow:   5px 5px 5px grey;
+  color: pink;
+}
+
+#unique hover {
+
+visibility: hidden;
+}
+
+
+#practice-links p a:link {
+  color: green;
+  font-size: : 24px;
+  border: 1px solid green
+}
+
+ 
+
+
+#nav a:hover {
+  color: red;
+  font-size: 48px;
+  border: 2px dotted red;
+}
+
+#nav a:active {
+  color: pink;
+  text-shadow:   5px 5px 5px grey;
+  color: pink;
+}

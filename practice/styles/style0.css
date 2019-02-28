@@ -1,0 +1,12 @@
+p {
+  font-family: monospace;
+  font-size: 72px;
+  font-style: italic;
+  background-color: blue;
+  color: red;
+  border-radius: 1px dashed yellow;
+  text-align: center;
+  margin 20px auto;
+  padding: 20px;
+
+}
